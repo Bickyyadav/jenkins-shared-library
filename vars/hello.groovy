@@ -1,5 +1,3 @@
-function main(){
-  echo "hellow world"
+def call(){
+  echo "hello world"
 }
-
-
